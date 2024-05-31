@@ -1,4 +1,3 @@
-<div align= "center">
 # :memo:여행플래너작성웹사이트 README
 </div>
 <div align= "center"> 
@@ -18,7 +17,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <br/></div>
     </div>
-<div align= "center">
 # 🔍️다이어그램 
-</div>
+
 
