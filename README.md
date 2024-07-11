@@ -4,6 +4,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 스프링을 사용해 여행 플랜 작성 프로젝트를 구현하였습니다.</li>카카오 로그인, 결제 시스템, 명소 확인 등 여러가지 기능을 구현해보았습니다.
 </div> 
     </div>
+     <img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/6f5c8328-c4d0-4f37-877d-4f4f99e88833">
     <div align="left>
     <div style="font-weight: 700; font-size: 15px; text-align:left;">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍️프로젝트 소개</h2>
