@@ -30,7 +30,8 @@
         ●&nbsp; API : <code>네이버 API</code>, <code>구글 맵 API</code>, <code>포트 원 API</code>, <code>coolSMS</code>, <code>카카오 로그인 API</code><br>
         ●&nbsp; Library & Framework : <code>Spring(5.2.7)</code>, <code>Spring Security(5.2.7)</code><br>
           <br/></div><br>
-<img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/16540d69-2d96-4ab5-b672-145a819c2942">
+              <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 설계 및 기능구현 </h2>
+              
 
         
 
