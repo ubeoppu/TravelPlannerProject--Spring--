@@ -1,7 +1,7 @@
-# :memo:스프링 여행플래너작성웹사이트 README
+# :memo:스프링 여행플래너웹사이트 README
 </div>
 <div align= "left"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 스프링을 이용하여 여행 플랜 작성 및 관리 프로젝트를 구현하였습니다.</li>카카오 로그인, 결제 시스템, 명소 확인 등 여러가지 기능을 구현해보았습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 스프링을 사용해 여행 플랜 작성 프로젝트를 구현하였습니다.</li>카카오 로그인, 결제 시스템, 명소 확인 등 여러가지 기능을 구현해보았습니다. </div> 
     </div>
     <div align="left>
     <div style="font-weight: 700; font-size: 15px; text-align:left;">
