@@ -5,7 +5,7 @@
     </div>
     <div align="left>
     <div style="font-weight: 700; font-size: 15px; text-align:left;">
-        # 🔍️프로젝트 소개
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍️프로젝트 소개</h2> <br> 
     </div>
         </div>
     <div align= "left">
