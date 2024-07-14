@@ -35,10 +35,6 @@
 |||
 |---|----|
 |<img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/16540d69-2d96-4ab5-b672-145a819c2942" width="560" height="300">|<img src="https://github.com/user-attachments/assets/748ba16c-8b63-46fc-8c21-4e764f85560f" width="560" hieght="300">|
-|<img src="" width="560" height="300">|<img src="" width="560" height="300">|
-|<img src="" width="560" height="300">|<img src="" width="560" height="300">|
-|<img src="" width="560" height="300">|<img src="" width="560" height="300">|
-|<img src="" width="560" height="300">|<img src="" width="560" height="300">|
 
 
               
