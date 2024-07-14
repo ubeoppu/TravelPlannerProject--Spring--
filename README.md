@@ -35,6 +35,10 @@
 |||
 |---|----|
 |<img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/16540d69-2d96-4ab5-b672-145a819c2942" width="560" height="300">|<img src="https://github.com/user-attachments/assets/748ba16c-8b63-46fc-8c21-4e764f85560f" width="560" hieght="300">|
+|<img src="https://github.com/user-attachments/assets/9e1a94b6-2c4c-40c7-b576-a7e7aba1047f" width="560" height="300">|<img src="https://github.com/user-attachments/assets/43c37bbe-503b-44d6-a885-e0b28a8e278c" width="560" height="300">|
+|<img src="https://github.com/user-attachments/assets/59380184-b958-43af-9cb6-0a9d6c8b8ef0" width="560" height="300">|<img src="https://github.com/user-attachments/assets/bfd27230-7e1c-4ce6-bf67-568434a2be2f" width="560" height="300">|
+|<img src="https://github.com/user-attachments/assets/4181f212-a920-4be9-bd29-ba56f3e097d4" width="560" height="300">|<img src="https://github.com/user-attachments/assets/b5833928-2ef2-429d-8eaa-bf186c0d950a" width="560" height="300">|
+|<img src="https://github.com/user-attachments/assets/8bce37fc-7bd5-47f4-ab40-3b79430395c9" width="560" height="300">|<img src="https://github.com/user-attachments/assets/ad74c410-1355-40a3-9603-689279a4fcbd" width="560" height="300">|
 
 
               
