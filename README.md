@@ -9,8 +9,9 @@
         ●&nbsp;     스프링을 사용해 여행 플랜 작성 프로젝트를 구현하였습니다. 카카오 로그인, 결제 시스템, 명소 확인 등 여러가지 기능을 구현해보았습니다.
         ●&nbsp;     여행을 떠나시기 전 여행 계획을 쉽고 간단하게 작성할 수 있게끔 도움을 줄 수 있는 웹사이트입니다.<br>
         ●&nbsp;     원하시는 지역을 고른 후 원하시는 명소, 식당, 카페 등을 골라 계획을 만들 수 있습니다.<br>
-        ●&nbsp;     여행을 즐기면서 시간을 절약하고 알찬 여행이 되게끔 도움을 줄 수 있습니다.<br><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;진행기간 : 24/05/02 ~ 24/05/27
+        ●&nbsp;     여행을 즐기면서 시간을 절약하고 알찬 여행이 되게끔 도움을 줄 수 있습니다.<br>
+        ●&nbsp;     여행지에 대한 정보를 공유 할 수 있는 게시판을 통해 유용한 정보를 얻을 수 있습니다.
+        &nbsp;&nbsp;&nbsp;&nbsp;<b>진행기간 : 24/05/02 ~ 24/05/27</b>
     </div>
         </div><br>
     <div align= "left">
@@ -31,26 +32,38 @@
         ●&nbsp; Library & Framework : <code>Spring(5.2.7)</code>, <code>Spring Security(5.2.7)</code><br>
           <br/></div><br>
            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :white_check_mark: 주요 기능 </h2>
-  ●&nbsp; 로그인<br>
+  ●&nbsp; <b>로그인</b><br>
            &nbsp;&nbsp;&nbsp;&nbsp;회원가입시 이메일 인증<br>
            &nbsp;&nbsp;&nbsp;&nbsp;카카오 로그인<br>
            &nbsp;&nbsp;&nbsp;&nbsp;인증을 통한 아이디 및 비밀번호 찾기<br><br>
-  ●&nbsp; 일정 계획<br>
+  ●&nbsp; <b>일정 계획</b><br>
            &nbsp;&nbsp;&nbsp;&nbsp;여행 기간을 선택 후 날마다 명소 및 시간 상세설정<br>
            &nbsp;&nbsp;&nbsp;&nbsp;해당 지역에 맞는 명소 리스트 출력<br><br>
-  ●&nbsp; 일반회원<br>
+  ●&nbsp; <b>게시판</b><br>
+           &nbsp;&nbsp;&nbsp;&nbsp;회원간의 여행지 정보 공유<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;여행지에 대한 후기 작성<br><br>
+  ●&nbsp; <b>마이페이지</b><br>
+           &nbsp;&nbsp;&nbsp;&nbsp;개인정보 수정<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;작성한 여행일정 열람 가능<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;작성한 게시글 열람 가능<br><br>
+  ●&nbsp; <b>일반회원</b><br>
            &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 페이지 열람 가능(저장X)<br><br>
-  ●&nbsp; 유료회원<br>
+  ●&nbsp; <b>유료회원</b><br>
            &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 가능(DB저장O)
               <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 설계 및 기능구현 </h2>
          
 |||
 |---|----|
-|<img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/16540d69-2d96-4ab5-b672-145a819c2942" width="560" height="300">|<img src="https://github.com/user-attachments/assets/bf1dc95f-4f72-42d5-8d1c-12b75e5ed387" width="560" hieght="300">|
+|<img src="https://github.com/user-attachments/assets/5f184f8e-7e92-4d63-8e29-cd05c7689cce" width="560" height="300">|<img src="https://github.com/user-attachments/assets/bf1dc95f-4f72-42d5-8d1c-12b75e5ed387" width="560" hieght="300">|
 |<img src="https://github.com/user-attachments/assets/2a16f047-01ad-4a26-9ef5-940f141fed0d" width="560" height="300">|<img src="https://github.com/user-attachments/assets/03708244-dc69-4841-8d3f-6d64721ed46e" width="560" height="300">|
 |<img src="https://github.com/user-attachments/assets/29d18e4c-277f-458d-9952-42209139b508" width="560" height="300">|<img src="https://github.com/user-attachments/assets/2dcd7b8c-c663-4061-a8a5-22d6899d0430" width="560" height="300">|
 |<img src="https://github.com/user-attachments/assets/b90df163-1de2-459a-836d-c5d6616e791f" width="560" height="300">|<img src="https://github.com/user-attachments/assets/e7554605-d1c4-44e8-9e6a-8ff8b5165045" width="560" height="300">|
-|<img src="https://github.com/user-attachments/assets/55bdecea-9fb8-47ac-86b3-ea2f75a4bb21" width="560" height="300">|<img src="https://github.com/user-attachments/assets/aa222680-6339-4b89-be7a-2fb01569cf2e" width="560" height="300">|
+|<img src="https://github.com/user-attachments/assets/55bdecea-9fb8-47ac-86b3-ea2f75a4bb21" width="560" height="300">|<img src="https://github.com/user-attachments/assets/d2aaa93f-9602-475a-ab59-f58063f7d293" width="560" height="300">|
+
+---
+ER-다이어그램
+---
+<img src="https://github.com/user-attachments/assets/7d0794e4-0605-470d-b49f-b9b0ff95b78b" width="1450" height="650">
 
 ---
 <img src="https://github.com/user-attachments/assets/97a88f22-48ff-47a7-86cc-618dba452aaa" width="1450" height="650">
@@ -83,6 +96,21 @@
 <img src="https://github.com/user-attachments/assets/5b7d6e06-d2c7-4715-8d47-9d6ac76f770d" width="1450" height="650">
 
 ---
+<img src="https://github.com/user-attachments/assets/839a52ba-5bff-4d3f-a8b9-7f5c400a7557" width="1450" height="650">
+
+---
+<img src="https://github.com/user-attachments/assets/35250b9b-3f7f-47f2-9236-31592244cc6e" width="1450" height="650">
+
+---
+<img src="https://github.com/user-attachments/assets/99211f2c-271c-432b-b350-44843e0396d2" width="1450" height="650">
+
+---
+<img src="https://github.com/user-attachments/assets/61966d03-7f92-4be2-801b-ae1862cfad2a" width="1450" height="650">
+
+---
+<img src="https://github.com/user-attachments/assets/18b3d8ac-677a-4b48-a805-5fcfba763669" width="1450" height="650">
+
+---
 <img src="https://github.com/user-attachments/assets/1780fca6-9cf9-4133-8dbc-45c6bdd7308c" width="1450" height="650">
 
 ---
@@ -107,10 +135,10 @@
 <img src="https://github.com/user-attachments/assets/13e9b7e5-9f0e-4b36-8c72-ea14069b2019" width="1450" height="650">
 <br>
 <br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 	:zap: 미구현 기능 </h2> <br>
-    QNA기능
-    마이페이지
-    
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 	:zap: 미구현 기능 </h2>
+    <b>QNA페이지</b><br>
+    <b>관리자 페이지</b><br>
+    <b>여행계획 수정 페이지</b>
      
 
 
