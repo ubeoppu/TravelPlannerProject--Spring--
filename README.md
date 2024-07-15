@@ -30,6 +30,18 @@
         ●&nbsp; API : <code>네이버 API</code>, <code>구글 맵 API</code>, <code>포트 원 API</code>, <code>coolSMS</code>, <code>카카오 로그인 API</code><br>
         ●&nbsp; Library & Framework : <code>Spring(5.2.7)</code>, <code>Spring Security(5.2.7)</code><br>
           <br/></div><br>
+           <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :white_check_mark: 주요 기능 </h2>
+  ●&nbsp; 로그인<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;회원가입시 이메일 인증<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;카카오 로그인<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;인증을 통한 아이디 및 비밀번호 찾기<br><br>
+  ●&nbsp; 일정 계획<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;여행 기간을 선택 후 날마다 명소 및 시간 상세설정<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;해당 지역에 맞는 명소 리스트 출력<br><br>
+  ●&nbsp; 일반회원<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 페이지 열람 가능(저장X)<br><br>
+  ●&nbsp; 유료회원<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 가능(DB저장O)
               <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 설계 및 기능구현 </h2>
          
 |||
@@ -74,7 +86,7 @@
 <img src="https://github.com/user-attachments/assets/1780fca6-9cf9-4133-8dbc-45c6bdd7308c" width="1450" height="650">
 
 ---
-<img src="https://github.com/user-attachments/assets/5dfeb5e3-41ed-42b4-a805-13aa3feb09a9" width="1450" height="650">
+<img src="https://github.com/user-attachments/assets/5dfeb5e3-41ed-42b4-a805-13aa3feb09a9" width="1450" height="650">           
 
 ---
 <img src="https://github.com/user-attachments/assets/00f3ba33-9444-422a-b965-b2c9ac79af4c" width="1450" height="650">
@@ -93,5 +105,12 @@
 
 ---
 <img src="https://github.com/user-attachments/assets/13e9b7e5-9f0e-4b36-8c72-ea14069b2019" width="1450" height="650">
+<br>
+<br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 	:zap: 미구현 기능 </h2> <br>
+    QNA기능
+    마이페이지
+    
+     
 
 
