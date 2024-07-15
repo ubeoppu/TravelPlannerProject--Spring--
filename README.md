@@ -10,8 +10,8 @@
         ●&nbsp;     여행을 떠나시기 전 여행 계획을 쉽고 간단하게 작성할 수 있게끔 도움을 줄 수 있는 웹사이트입니다.<br>
         ●&nbsp;     원하시는 지역을 고른 후 원하시는 명소, 식당, 카페 등을 골라 계획을 만들 수 있습니다.<br>
         ●&nbsp;     여행을 즐기면서 시간을 절약하고 알찬 여행이 되게끔 도움을 줄 수 있습니다.<br>
-        ●&nbsp;     여행지에 대한 정보를 공유 할 수 있는 게시판을 통해 유용한 정보를 얻을 수 있습니다.
-        &nbsp;&nbsp;&nbsp;&nbsp;<b>진행기간 : 24/05/02 ~ 24/05/27</b>
+        ●&nbsp;     여행지에 대한 정보를 공유 할 수 있는 게시판을 통해 유용한 정보를 얻을 수 있습니다.<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<b>프로젝트 진행기간 : 24/05/02 ~ 24/05/27</b>
     </div>
         </div><br>
     <div align= "left">
@@ -31,25 +31,34 @@
         ●&nbsp; API : <code>네이버 API</code>, <code>구글 맵 API</code>, <code>포트 원 API</code>, <code>coolSMS</code>, <code>카카오 로그인 API</code><br>
         ●&nbsp; Library & Framework : <code>Spring(5.2.7)</code>, <code>Spring Security(5.2.7)</code><br>
           <br/></div><br>
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pushpin: 맡은 역할 </h2>
+         <b>임재현(조장)</b><br>
+         &nbsp;&nbsp;&nbsp;●&nbsp; DB설계, 메인페이지,헤더, 여행 일정 작성(캘린더, 일정 선택, 시간 설정)<br>
+         &nbsp;&nbsp;&nbsp;●&nbsp; 마이페이지, 게시판을 제외한 페이지 전체CSS(로그인,회원가입...) <br><br>
+         <b>이효빈</b><br>
+         &nbsp;&nbsp;&nbsp;●&nbsp; 로그인, 회원가입, 아이디/패스워드 찾기, 카카오 로그인<br>
+         &nbsp;&nbsp;&nbsp;●&nbsp; 여행 일정 작성(지도 좌표 표시, 루트 설정)DB 정보 삽입<br><br>
+         <b>김정훈</b><br>
+         &nbsp;&nbsp;&nbsp;●&nbsp; 게시판 페이지, 댓글, 마이페이지, CSS(게시판, 마이페이지)<br>
            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :white_check_mark: 주요 기능 </h2>
-  ●&nbsp; <b>로그인</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;회원가입시 이메일 인증<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;카카오 로그인<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;인증을 통한 아이디 및 비밀번호 찾기<br><br>
-  ●&nbsp; <b>일정 계획</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;여행 기간을 선택 후 날마다 명소 및 시간 상세설정<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;해당 지역에 맞는 명소 리스트 출력<br><br>
-  ●&nbsp; <b>게시판</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;회원간의 여행지 정보 공유<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;여행지에 대한 후기 작성<br><br>
-  ●&nbsp; <b>마이페이지</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;개인정보 수정<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;작성한 여행일정 열람 가능<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;작성한 게시글 열람 가능<br><br>
-  ●&nbsp; <b>일반회원</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 페이지 열람 가능(저장X)<br><br>
-  ●&nbsp; <b>유료회원</b><br>
-           &nbsp;&nbsp;&nbsp;&nbsp;일정 계획 작성 가능(DB저장O)
+  <b>로그인</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 회원가입시 이메일 인증<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 카카오 로그인<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 인증을 통한 아이디 및 비밀번호 찾기<br><br>
+  <b>일정 계획</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 여행 기간을 선택 후 날마다 명소 및 시간 상세설정<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 해당 지역에 맞는 명소 리스트 출력<br><br>
+  <b>게시판</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 회원간의 여행지 정보 공유<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 여행지에 대한 후기 작성<br><br>
+  <b>마이페이지</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 개인정보 수정<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 작성한 여행일정 열람 가능<br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 작성한 게시글 열람 가능<br><br>
+  <b>일반회원</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 일정 계획 작성 페이지 열람 가능(저장X)<br><br>
+  <b>유료회원</b><br>
+           &nbsp;&nbsp;&nbsp;●&nbsp; 일정 계획 작성 가능(DB저장O)
               <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 설계 및 기능구현 </h2>
          
 |||
