@@ -102,7 +102,7 @@ ER-다이어그램
 <img src="https://github.com/user-attachments/assets/f767ad28-3fd7-487b-be41-acbbd171577f" width="1450" height="650">
 
 ---
-<img src="https://github.com/user-attachments/assets/5b7d6e06-d2c7-4715-8d47-9d6ac76f770d" width="1450" height="650">
+<img src="https://github.com/user-attachments/assets/18b3d8ac-677a-4b48-a805-5fcfba763669" width="1450" height="650">
 
 ---
 <img src="https://github.com/user-attachments/assets/839a52ba-5bff-4d3f-a8b9-7f5c400a7557" width="1450" height="650">
@@ -117,7 +117,7 @@ ER-다이어그램
 <img src="https://github.com/user-attachments/assets/61966d03-7f92-4be2-801b-ae1862cfad2a" width="1450" height="650">
 
 ---
-<img src="https://github.com/user-attachments/assets/18b3d8ac-677a-4b48-a805-5fcfba763669" width="1450" height="650">
+<img src="https://github.com/user-attachments/assets/5b7d6e06-d2c7-4715-8d47-9d6ac76f770d" width="1450" height="650">
 
 ---
 <img src="https://github.com/user-attachments/assets/1780fca6-9cf9-4133-8dbc-45c6bdd7308c" width="1450" height="650">
