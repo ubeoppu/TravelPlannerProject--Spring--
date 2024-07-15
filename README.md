@@ -1,7 +1,7 @@
 # :memo:스프링 여행플래너웹사이트 README
 </div>
 <p align="center">
-     <img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/6f5c8328-c4d0-4f37-877d-4f4f99e88833" width="1500" height="550">
+     <img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/6f5c8328-c4d0-4f37-877d-4f4f99e88833" width="1500" height="500">
 </p>
     <div align="left>
     <div style="font-weight: 700; font-size: 15px; text-align:left;">
