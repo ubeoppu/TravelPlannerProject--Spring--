@@ -1,7 +1,7 @@
 # :memo:스프링 여행플래너웹사이트 README
 </div>
 <p align="center">
-     <img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/6f5c8328-c4d0-4f37-877d-4f4f99e88833" width="1500" height="500">
+     <img src="https://github.com/ubeoppu/TravelPlannerProject/assets/157093883/6f5c8328-c4d0-4f37-877d-4f4f99e88833" width="1500" height="480">
 </p>
     <div align="left>
     <div style="font-weight: 700; font-size: 15px; text-align:left;">
@@ -63,11 +63,11 @@
          
 |||
 |---|----|
-|<img src="https://github.com/user-attachments/assets/5f184f8e-7e92-4d63-8e29-cd05c7689cce" width="560" height="300">|<img src="https://github.com/user-attachments/assets/bf1dc95f-4f72-42d5-8d1c-12b75e5ed387" width="560" hieght="300">|
-|<img src="https://github.com/user-attachments/assets/2a16f047-01ad-4a26-9ef5-940f141fed0d" width="560" height="300">|<img src="https://github.com/user-attachments/assets/03708244-dc69-4841-8d3f-6d64721ed46e" width="560" height="300">|
-|<img src="https://github.com/user-attachments/assets/29d18e4c-277f-458d-9952-42209139b508" width="560" height="300">|<img src="https://github.com/user-attachments/assets/2dcd7b8c-c663-4061-a8a5-22d6899d0430" width="560" height="300">|
-|<img src="https://github.com/user-attachments/assets/b90df163-1de2-459a-836d-c5d6616e791f" width="560" height="300">|<img src="https://github.com/user-attachments/assets/e7554605-d1c4-44e8-9e6a-8ff8b5165045" width="560" height="300">|
-|<img src="https://github.com/user-attachments/assets/55bdecea-9fb8-47ac-86b3-ea2f75a4bb21" width="560" height="300">|<img src="https://github.com/user-attachments/assets/d2aaa93f-9602-475a-ab59-f58063f7d293" width="560" height="300">|
+|<img src="https://github.com/user-attachments/assets/5f184f8e-7e92-4d63-8e29-cd05c7689cce" width="560" height="270">|<img src="https://github.com/user-attachments/assets/bf1dc95f-4f72-42d5-8d1c-12b75e5ed387" width="560" hieght="270">|
+|<img src="https://github.com/user-attachments/assets/2a16f047-01ad-4a26-9ef5-940f141fed0d" width="560" height="270">|<img src="https://github.com/user-attachments/assets/03708244-dc69-4841-8d3f-6d64721ed46e" width="560" height="270">|
+|<img src="https://github.com/user-attachments/assets/29d18e4c-277f-458d-9952-42209139b508" width="560" height="270">|<img src="https://github.com/user-attachments/assets/2dcd7b8c-c663-4061-a8a5-22d6899d0430" width="560" height="270">|
+|<img src="https://github.com/user-attachments/assets/b90df163-1de2-459a-836d-c5d6616e791f" width="560" height="270">|<img src="https://github.com/user-attachments/assets/e7554605-d1c4-44e8-9e6a-8ff8b5165045" width="560" height="270">|
+|<img src="https://github.com/user-attachments/assets/55bdecea-9fb8-47ac-86b3-ea2f75a4bb21" width="560" height="270">|<img src="https://github.com/user-attachments/assets/d2aaa93f-9602-475a-ab59-f58063f7d293" width="560" height="270">|
 
 ---
 ER-다이어그램
