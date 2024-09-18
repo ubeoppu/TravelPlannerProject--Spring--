@@ -32,7 +32,7 @@
         ●&nbsp; Library & Framework : <code>Spring(5.2.7)</code>, <code>Spring Security(5.2.7)</code><br>
           <br/></div><br>
          <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pushpin: 맡은 역할 </h2>
-         <b>임재현(조장)</b><br>
+         <b>임재현[PL]</b><br>
          &nbsp;&nbsp;&nbsp;●&nbsp; DB설계, 메인페이지,헤더, 여행 일정 작성(캘린더, 일정 선택, 시간 설정)<br>
          &nbsp;&nbsp;&nbsp;●&nbsp; 마이페이지, 게시판을 제외한 페이지 전체CSS(로그인,회원가입...) <br><br>
          <b>이효빈</b><br>
